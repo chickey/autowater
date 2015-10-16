@@ -3,15 +3,16 @@ Arduino code for very simple auto watering system
 
 I used the following components
 
-Arduino Uno (clone)
-2 x 220 resistor
-Red LED
-Green LED
-Relay module (link)
-Soil Moisture sensor (link)
-5-6v pump (link)
-Breadboard
+Arduino Uno (clone), 
+2 x 220 resistor, 
+Red LED, 
+Green LED, 
+Relay module, 
+Soil Moisture sensor, 
+5-6v pump, 
+Breadboard, 
 Powerbank
+
 The soil moisture sensor was connected to pin 2
 
 The relay module was connected to pin 3
